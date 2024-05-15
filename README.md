@@ -1,2 +1,2 @@
-# NLP-course-project
+# Data Augmentation through Backtranslation
 The primary objective of this project is to assess the impact of augmenting data using the "backtranslation" technique on the performance of text classification tasks. Backtranslation involves converting the original text from one language (English) into another language (in this case, French), and then translating it back into the original language. This technique proposes that during this transformation, the original text will be regenerated in a different manner, thereby producing augmented text that can be utilized effectively.
